@@ -14,6 +14,12 @@ Hello, I'm **NapsterNPT**, an **Italian** silly developer. You can check all my 
 
 ---
 
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NapsterNPT&custom_title=GitHub%20Stats&show_icons=true&theme=transparent&hide_border=true)
+![Most Used Lenguage](https://github-stats-extended.vercel.app/api/top-langs?username=NapsterNPT&layout=donut&langs_count=4&theme=transparent&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com?user=NapsterNPT&theme=transparent&hide_border=true)
+
+---
+
 I'm currently working on **[Prixilium](https://GitHub.com/NapsterNPT/Prixilium)**, and you can see the process on the **[GitHub Project page](https://github.com/users/NapsterNPT/projects/2)**.
 
 ![Downloads](https://img.shields.io/modrinth/dt/prixilium?style=for-the-badge&color=gold&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZTNlM2UzIj48cGF0aCBkPSJNNDgwLTMyMCAyODAtNTIwbDU2LTU4IDEwNCAxMDR2LTMyNmg4MHYzMjZsMTA0LTEwNCA1NiA1OC0yMDAgMjAwWk0yNDAtMTYwcS0zMyAwLTU2LjUtMjMuNVQxNjAtMjQwdi0xMjBoODB2MTIwaDQ4MHYtMTIwaDgwdjEyMHEwIDMzLTIzLjUgNTYuNVQ3MjAtMTYwSDI0MFoiLz48L3N2Zz4=)
