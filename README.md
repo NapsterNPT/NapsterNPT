@@ -10,7 +10,7 @@
 ![idea](https://skillicons.dev/icons?i=idea)
 ![vscode](https://skillicons.dev/icons?i=vscode)
 
-Hello, I'm **NapsterNPT**, an **Italian** silly developer, and you can check all my projects here on my **[Website](https://napsternpt.github.io)**, on my **[Modrinth Profile](https://modrinth.com/user/NapsterNPT)**, or even simpler on my **[GitHub](https://github.com/NapsterNPT?tab=repositories)**.
+Hello, I'm **NapsterNPT**, an **Italian** silly developer. You can check all my projects on my **[Website](https://napsternpt.github.io)**, on my **[Modrinth Profile](https://modrinth.com/user/NapsterNPT)**, or, even simpler, on my **[GitHub](https://github.com/NapsterNPT?tab=repositories)**.
 
 ---
 
